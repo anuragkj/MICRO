@@ -1,4 +1,4 @@
-    .model small1
+    .model small
     .386
     .stack 100h
 

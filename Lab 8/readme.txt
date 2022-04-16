@@ -4,7 +4,7 @@ DB 1011B
 DB 0111B
 DB 1110B
 
-Anti Clock Wise
+Anti Clock Wise(Change the ending segment)
 DB 1110B
 DB 0111B
 DB 1011B
